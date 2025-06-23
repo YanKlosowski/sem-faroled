@@ -1,4 +1,4 @@
-//projeto por André Morais, obrigado pelo suporte.
+
 
 
 #define LEDverde 10
